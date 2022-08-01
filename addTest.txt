@@ -1,0 +1,2 @@
+We add a new txt file to test the git commands.
+Here we go!
