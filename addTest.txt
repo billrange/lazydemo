@@ -1,2 +1,3 @@
 We add a new txt file to test the git commands.
 Here we go!
+We write the codes using Atom App and directly refresh the remote with its embedding Git function.
