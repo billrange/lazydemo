@@ -1,5 +1,5 @@
-# lazydemo
-this is a demo
+# lazydemo126
+We contribute our 126 coding to lazydemo.:) 
 
 ## About me
 ### About my friends
